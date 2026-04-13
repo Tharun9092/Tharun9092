@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I’m a data-driven professional with experience in logistics analytics at Amazon DSP (YPLS & Thanvika Logistics).
+I’m a data-driven professional with 2.5+ years of experience in logistics analytics at Amazon DSP (YPLS & Thanvika Logistics).
 
 I have worked on:
 - Delivery performance analysis  
