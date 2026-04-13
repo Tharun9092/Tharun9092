@@ -41,6 +41,10 @@ Currently focused on:
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tharun9092&theme=radical)
 
 ---
+## DEV Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
