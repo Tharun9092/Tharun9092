@@ -38,7 +38,7 @@ Currently focused on:
 ---
 
 ## 📈 GitHub Stats
-![Tharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharun9092&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Tharun9092&theme=radical)
 
 ---
 
