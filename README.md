@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I’m a data-driven professional with 2.5+ years of experience in logistics analytics at Amazon DSP (YPLS & Thanvika Logistics).
+I’m a data-driven professional with 3 years of experience in logistics analytics at Amazon DSP (YPLS & Thanvika Logistics).
 
 I have worked on:
 - Delivery performance analysis  
@@ -51,6 +51,10 @@ Currently focused on:
 ### ☁️ Cloud & Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 
 ---
 
